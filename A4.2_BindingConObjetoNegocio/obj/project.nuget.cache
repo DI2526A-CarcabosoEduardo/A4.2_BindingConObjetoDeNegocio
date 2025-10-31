@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VZIYx+ziIAg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alumno\\source\\repos\\UD4\\A4.2_BindingConObjetoNegocio\\A4.2_BindingConObjetoNegocio\\A4.2_BindingConObjetoNegocio\\A42_EduardoCarcaboso_BindingConObjetoNegocio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alumno\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512",
+    "C:\\Users\\alumno\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
